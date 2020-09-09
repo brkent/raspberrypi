@@ -1,6 +1,6 @@
 # Science and Computing with Raspberry Pi
 ## Brian R. Kent
-Python and Mathematica code for the book Science and Computing with Raspberry Pi published
+Python and Mathematica code for the book [Science and Computing with Raspberry Pi](https://iopscience.iop.org/book/978-1-6817-4996-9) published
 by IOP and Morgan and Claypool Publishers.
 
 The world of single-board computing puts powerful coding tools in the palm of your hand.  The portable Raspberry Pi computing platform with the power of Linux yields an exciting exploratory tool for beginning scientific computing.
