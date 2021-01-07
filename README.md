@@ -1,5 +1,10 @@
 # Science and Computing with Raspberry Pi
 ## Brian R. Kent
+
+<img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png"
+     alt="Science and Computing with Raspberry Pi Brian R. Kent"
+     style="float: left; margin-right: 10px;" width="120px" height="150px" />
+
 Python and Mathematica code for the book [Science and Computing with Raspberry Pi](https://iopscience.iop.org/book/978-1-6817-4996-9) published
 by IOP and Morgan and Claypool Publishers.
 
